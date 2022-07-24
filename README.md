@@ -10,7 +10,7 @@ The repositry includes:
 
 [embed][https://github.com/coksvictoria/SMOTE-CDNN/blob/main/under.pdf][/embed]
 
-[embed][http://example.com/file.pdf](https://github.com/coksvictoria/SMOTE-CDNN/blob/main/over.pdf)[/embed]
+[embed]https://github.com/coksvictoria/SMOTE-CDNN/blob/main/over.pdf[/embed]
 - Examples of using SMOTE-CDNN
 - A comparision between SMOTE-CDNN and tradditional resampling algorithms on some sample datasets
 
