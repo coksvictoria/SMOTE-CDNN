@@ -7,6 +7,10 @@ To accelerate future projects using our algorithm and also evaluate SMOTE-CDNN a
 
 The repositry includes:
 - Native Python implementations of Edited CDNN and SMOTE-CDNN alongside a flexible framework for adapting different distance metrics.
+
+[embed][http://example.com/file.pdf](https://github.com/coksvictoria/SMOTE-CDNN/blob/main/under.pdf)[/embed]
+
+[embed][http://example.com/file.pdf](https://github.com/coksvictoria/SMOTE-CDNN/blob/main/over.pdf)[/embed]
 - Examples of using SMOTE-CDNN
 - A comparision between SMOTE-CDNN and tradditional resampling algorithms on some sample datasets
 
