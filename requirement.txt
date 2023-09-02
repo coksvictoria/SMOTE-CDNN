@@ -1,3 +1,4 @@
-numpy
-scipy
-sklearn
+Panda—1.1.5
+Numpy –1.20.3
+sklearn—0.24.2
+imbleran—0.8.1
