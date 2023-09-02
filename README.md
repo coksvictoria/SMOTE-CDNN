@@ -3,16 +3,15 @@
 To accelerate future projects using our algorithm and also evaluate SMOTE-CDNN against other resampling algorithms. We develop and open-source Edited CDNN and SMOTE-CDNN as a Python library for performing multi-class hybrid sampling tasks, based on the \texttt{imbalanced-learn} API. 
 
 
-
-
 The repositry includes:
 - Native Python implementations of Edited CDNN and SMOTE-CDNN alongside a flexible framework for adapting different distance metrics.
+- Example Jupyter Notebook for illustration.
 
 
 https://github.com/coksvictoria/SMOTE-CDNN/blob/main/under.pdf
 https://github.com/coksvictoria/SMOTE-CDNN/blob/main/over.pdf
 - Examples of using SMOTE-CDNN
-- A comparision between SMOTE-CDNN and tradditional resampling algorithms on some sample datasets
+- A comparison between SMOTE-CDNN and traditional resampling algorithms on some sample datasets
 
 Please refer to sample.ipynb for examples.
 
